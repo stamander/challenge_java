@@ -1,23 +1,19 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello Java");
-    int number;
+    int number1 = 3;
     
-    // 変数numberに3を代入してください
-    number = 3;
+    // int型の変数number2を定義し、7を代入してください
+    int number2 = 7;
+    
+    // number1 * number2を出力してください
+    System.out.println(number1 * number2);
     
     
-    // 変数numberを出力してください
-    System.out.println(number);
+    // 変数textに「プログラミングを勉強しよう」を代入してください
+    String text = "プログラミングを勉強しよう";
     
-
-    // String型の変数nameを定義してください
-    String name;
+    // 「Progateで」と変数textを連結して出力してください
+    System.out.println(text + "Progateで");
     
-    // 変数nameに"Wanko"を代入してください
-    name = "Wanko";
-    
-    // 変数nameを出力してください
-    System.out.println(name);
   }
 }
