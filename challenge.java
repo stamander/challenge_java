@@ -30,7 +30,7 @@ class Main {
     text1 = "Java";
     
     // 変数textを出力してください
-     System.out.println(text1);
+   
     
     
   }
