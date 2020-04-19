@@ -1,25 +1,23 @@
 class Main {
 
   public static void main(String[] args) {
-    int number = 12;
+    int number = 13;
     
-    int number = 12;
-    
-    // switch文を用いて、numberを3で割った余りで条件分岐をしてください
-    switch (number%3){
+    // defaultを用いて、どのcaseにも合致しない場合の処理を記述してください
+    switch (number % 5) {
       case 0:
-        System.out.println("3で割り切れます");
+        System.out.println("大吉です");
         break;
-       case 1:
-        System.out.println("3で割ると1余ります");
+      case 1:
+        System.out.println("中吉です");
         break;
-       case 2:
-        System.out.println("3で割ると2余ります");
+      case 4:
+        System.out.println("凶です");
         break;
-    }
+      default:
+        System.out.println("吉です");
     
     
+    } 
   }
-
-    
 }
