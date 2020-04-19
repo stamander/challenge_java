@@ -30,7 +30,7 @@ class Main {
   System.out.println(names[0]);
   
   // インデックス番号が2の要素を出力してください
- 
+  System.out.println(names[2]);
 }
 
 }
