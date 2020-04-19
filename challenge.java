@@ -1,26 +1,20 @@
 class Main {
 
   public static void main(String[] args) {
-    System.out.println(true);
-  
-    // 「偽」を表す真偽値を出力してください
-    System.out.println(false);
+    System.out.println(true || false);
     
-    // 「==」を用いて、値を比較した結果を出力してください
-    System.out.println(12/4==3);
+    // falseと出力されるようにしてください
+    System.out.println(false && true);
     
-    // 「!=」を用いて、値を比較した結果を出力してください
-    System.out.println(12/4!=3);
+    // 「8 < 5」かつ「3 >= 2」の結果を出力してください
+    System.out.println(8<5 && 3>=2);
     
-    // boolean型の変数boolを定義し、「3 * 9 == 27」を代入してください
-    boolean bool = 3*9 == 27;
+    // 「8 < 5」または「3 >= 2」の結果を出力してください
+    System.out.println(8<5||3>=2);
     
-    // 変数boolの値を出力してください
-    System.out.println(bool);
-    System.out.println(8<5);
-  
-    // 3と2を比較し、trueとなるようにしてください
-    System.out.println(2<3);
+    // 「8 < 5」でない、の結果を出力してください
+    System.out.println(!(8<5));
+    
     
   }
 
