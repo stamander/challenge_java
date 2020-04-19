@@ -23,6 +23,14 @@ class Main {
       
       System.out.println(j);
   }
+
+  String[]names = {"にんじゃわんこ","ひつじ仙人","ベイビーわんこ"};
+    
+  // インデックス番号が0の要素を出力してください
+  System.out.println(names[0]);
+  
+  // インデックス番号が2の要素を出力してください
+  System.out.println(names[2]);
 }
 
 }
