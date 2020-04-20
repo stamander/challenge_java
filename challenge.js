@@ -83,3 +83,11 @@ if (age >= 20) {
  else {
   console.log("私は10歳未満です");
 }
+
+
+const age = 24;
+
+// 指定された条件のif文を作成してください
+if (age>=20 && age<30){
+  console.log("私は20代です");
+}
