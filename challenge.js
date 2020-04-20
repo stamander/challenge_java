@@ -20,3 +20,11 @@ console.log(language);
 // 定数languageを用いて、「〇〇を話せます」と出力してください
 
 console.log(language + "を話せます");
+
+
+const level = 12;
+
+// 条件式を「level > 10」とするif文を作ってください
+if (level>10){
+  console.log('レベルが10より大きいです');
+}
