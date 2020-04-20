@@ -1,18 +1,12 @@
-// 変数lengthを定義してください
-let length = 5;
+let number = 7;
+console.log(number);
 
-// 変数lengthの値を出力してください
-console.log(length);
-
-// 変数lengthを用いて、円の面積を出力してください
-console.log(length*length*3);
+// 変数numberの値に3を加えてください
 
 
-let name = "にんじゃわんこ";
-console.log(name);
+console.log(number+=3);
 
-// 変数nameの値を"とりずきん"に更新してください
-name = "とりずきん"
+// 変数numberの値を2で割ってください
 
-// 変数nameの値を出力してください
-console.log(name);
+
+console.log(number/2);
