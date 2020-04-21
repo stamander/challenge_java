@@ -9,7 +9,7 @@ class Main {
   // 引数を受け取るようにしてください
   public static void printPrice(String name,int yen) {
     // 「私の名前は◯◯です」と出力されるように書き換えてください
-    System.out.println(name+yen);
+    System.out.println(name+"は"+yen+"円です" );
     
   }
 }
