@@ -1,23 +1,16 @@
 class Main {
   public static void main(String[] args) {
-    // 変数numbersに、与えられた数字の配列を代入してください
-    int[] numbers = {1, 4, 6, 9, 13, 16};
+    // 変数languagesを定義し、配列を代入してください
+    String[] languages={"Ruby", "PHP", "Python"};
     
-    int oddSum = 0;
-    int evenSum = 0;
+    // インデックス番号が「1」の要素を出力してください
+    System.out.println(languages[1]);
     
-    // for文を用いて、配列numbersの偶数の和と奇数の和を求めてください
-    for (int number:numbers){
-      if (number %2==0){
-        oddSum +=number;
-        
-      }
-      else{
-         evenSum+=number;
-        
-      }
-    }
-    System.out.println("偶数の和は" + evenSum + "です");
-    System.out.println("奇数の和は" + oddSum + "です");
+    // インデックス番号が「1」の要素を「Java」で上書きしてください
+    languages[1]= "Java";
+    
+    // インデックス番号が「1」の要素を出力してください
+    System.out.println(languages[1]);
+    
   }
 }
