@@ -5,7 +5,7 @@ class Main {
   }
 
   public static void hello(){
-    System.out.println("He")
+    System.out.println("Hello world")
   }
 
 }
