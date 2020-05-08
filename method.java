@@ -7,6 +7,9 @@ class Main {
     
     int total = add(7,5);
     PrintPlice("コーラ",200);
+
+    String name = names("yukimi","takano");
+    System.out.println(name);
   }
 
  
@@ -26,6 +29,10 @@ class Main {
   public static int add(int a,int b){
     return a / b;
 
+  }
+
+  public static String names (String firstName,String lastName){
+    return firstName + "" +lastName;
   }
 
 
