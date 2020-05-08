@@ -11,6 +11,8 @@ class Main {
     hello(names("atsushi","iida"));
     System.out.println(average(30,40));
 
+    isEven(30);
+
 
 
 
@@ -48,6 +50,10 @@ class Main {
 
   public static double bmi(double weight,double height){
     return weight/height/height;
+  }
+
+  public static boolean isEven(int a){
+    return a%2==0;
   }
 
 
