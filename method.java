@@ -1,15 +1,15 @@
 class Main {
 
   public static void main(String[] args){
-    hello("atsushi");
+    
     printData();
     PrintPlice("消しゴム",300);
     
-   
-    PrintPlice("コーラ",200);
-
     String name = names("yukimi","takano");
     hello(name);
+
+    
+
   }
 
  
