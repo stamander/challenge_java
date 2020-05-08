@@ -5,8 +5,10 @@ class Main {
     printData();
     PrintPlice("消しゴム",300);
     
-    String name = names("yukimi","takano");
-    hello(name);
+   
+    hello(names("yukimi","takano"));
+
+    hello(names("atsushi","iida"));
 
     
 
