@@ -10,7 +10,7 @@ class Main {
   }
 
   public static void printData(){
-    
+    System.out.println("my name is atsushi")
   }
 
 }
