@@ -3,6 +3,7 @@ class Main {
   public static void main(String[] args){
     hello();
     hello();
+    printData();
   }
 
   public static void hello(){
@@ -10,7 +11,7 @@ class Main {
   }
 
   public static void printData(){
-    System.out.println("my name is atsushi")
+    System.out.println("my name is atsushi");
   }
 
 }
