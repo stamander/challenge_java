@@ -1,6 +1,6 @@
 public class person {
   public static void hello(){
-    System.out.println
+    System.out.println("Hello world");
   }
 
   
