@@ -5,11 +5,11 @@ class Main {
     printData();
     PrintPlice("消しゴム",300);
     
-    int total = add(7,5);
+   
     PrintPlice("コーラ",200);
 
     String name = names("yukimi","takano");
-    System.out.println(name);
+    hello(name);
   }
 
  
