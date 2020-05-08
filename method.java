@@ -5,6 +5,8 @@ class Main {
     printData();
     PrintPlice("消しゴム",300);
     PrintPlice("コーラ",200);
+    int total = add(7,5);
+    System.out.println(total);
   }
 
  
@@ -22,7 +24,7 @@ class Main {
   }
 
   public static int add(int a,int b){
-    
+    return a + b;
 
   }
 
