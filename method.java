@@ -11,7 +11,17 @@ class Main {
     hello(names("atsushi","iida"));
     System.out.println(average(30,40));
 
-    isEven(30);
+    int number = 3047061;
+
+    if(isEven(number)){
+      System.out.println(number +"は偶数です");
+
+
+    }else{
+      System.out.println(number +"は奇数です");
+    }
+
+    
 
 
 
