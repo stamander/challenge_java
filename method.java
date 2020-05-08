@@ -15,6 +15,8 @@ class Main {
     System.out.println( name + "さんこんにちは");
   }
 
+  public static void
+
 
 
 }
