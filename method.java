@@ -4,9 +4,9 @@ class Main {
     hello("atsushi");
     printData();
     PrintPlice("消しゴム",300);
-    PrintPlice("コーラ",200);
+    
     int total = add(7,5);
-    System.out.println(total);
+    PrintPlice("コーラ",total);
   }
 
  
