@@ -1,4 +1,7 @@
 public class person {
-  public static void hello();
+  public static void hello(){
+    System.out.println
+  }
+
   
 }
