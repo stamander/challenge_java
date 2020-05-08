@@ -6,7 +6,7 @@ class Main {
     PrintPlice("消しゴム",300);
     
     int total = add(7,5);
-    PrintPlice("コーラ",total);
+    PrintPlice("コーラ",200);
   }
 
  
