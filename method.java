@@ -2,7 +2,7 @@ class Main {
 
   public static void main(String[] args){
     
-    printData();
+    printData("atsushi",45,1.6);
     PrintPlice("消しゴム",300);
     
    
