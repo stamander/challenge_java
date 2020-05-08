@@ -3,6 +3,7 @@ class Main {
   public static void main(String[] args){
     hello("atsushi");
     printData();
+    PrintPlice("消しゴム",300);
   }
 
  
@@ -15,7 +16,10 @@ class Main {
     System.out.println( name + "さんこんにちは");
   }
 
-  public static void
+  public static void PrintPlice(String item, int yen){
+    System.out.println(item +"の値段は"+ yen + "です");
+  }
+
 
 
 
