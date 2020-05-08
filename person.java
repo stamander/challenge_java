@@ -1,4 +1,4 @@
 public class person {
-  public static 
+  public static void hello();
   
 }
