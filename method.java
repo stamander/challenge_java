@@ -11,6 +11,10 @@ class Main {
     System.out.println("my name is atsushi");
   }
 
+  public static void hello(String name){
+    
+  }
+
 
 
 }
