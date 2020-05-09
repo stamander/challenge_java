@@ -1,7 +1,4 @@
 class Main {
-
- 
-
   public static void main(String[] args){
 
     printData("atsushi", 45, 1.6);
@@ -20,6 +17,9 @@ class Main {
     } else {
       System.out.println(number + "は奇数です");
     }
+
+    String name = Person.fullName("Kate","Jones");
+    System.out.println(name);
 
     
 
