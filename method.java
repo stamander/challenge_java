@@ -21,8 +21,7 @@ class Main {
       System.out.println(number + "は奇数です");
     }
 
-    Person.hello();
-
+    
 
 
   }
