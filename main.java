@@ -1,5 +1,7 @@
-class Main {
-  public static void main(String[] args) {
-    Person.hello();
+import java.lang.Math;
+
+class Main{
+  public static void main(String[] args){
+    
   }
 }
