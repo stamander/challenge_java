@@ -2,7 +2,7 @@ class Main {
 
  
 
-  public static void main(String[])) {
+  public static void main(String[] args){
 
     printData("atsushi", 45, 1.6);
     PrintPlice("消しゴム", 300);
@@ -20,6 +20,8 @@ class Main {
     } else {
       System.out.println(number + "は奇数です");
     }
+
+    Person.hello();
 
 
 
