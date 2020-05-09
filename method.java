@@ -1,6 +1,8 @@
 class Main {
 
-  public static void main(final String[] args) {
+ 
+
+  public static void main(String[])) {
 
     printData("atsushi", 45, 1.6);
     PrintPlice("消しゴム", 300);
@@ -19,7 +21,7 @@ class Main {
       System.out.println(number + "は奇数です");
     }
 
-    Person.hello();
+
 
   }
 
