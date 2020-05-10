@@ -5,7 +5,7 @@ class Main{
     Scanner scanner = new Scanner(System.in);
     System.out.println("あなたの名前：");
     String name = Scanner.next();
-    System.out.println("あなたの名前は"　＋なめ)
+    System.out.println("あなたの名前は" + name +"です");
   }
   
 }
