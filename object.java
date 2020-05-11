@@ -5,6 +5,8 @@ public class object {
     Person person2 = new Person();
     Person person3 = new Person();
 
+    person1.hello();
+
 
 
 
