@@ -1,5 +1,5 @@
 class Person{
-  public void hello(){
+  public void hello() {
     System.out.println("hello world");
   }
 }
