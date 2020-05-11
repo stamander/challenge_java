@@ -1,7 +1,7 @@
 public class object {
-  public static void main(String[] args){
+  public static void main(final String[] args) {
 
-    Person person = new Person();
+    final Person person = new Person();
     person.hello();
 
 
