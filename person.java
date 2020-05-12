@@ -12,7 +12,7 @@ class Person{
   }
 
   public String fullName(){
-    return this.weight/height/height;
+    return this.firstName + lastName;
   }
   
 }
