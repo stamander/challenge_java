@@ -10,6 +10,10 @@ class Person{
     System.out.println("インスタンスが生成されました");
     this.firstName = firstName;
   }
+
+  public String fullName(){
+    return this.weight/height/height;
+  }
   
 }
 
