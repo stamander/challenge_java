@@ -1,8 +1,14 @@
 class Person{
-  public String firstname;
-  Person(String name) {
+
+
+  public String firstName;
+  public String lastName;
+  public int age;
+
+
+  Person(String firstName, String lastName, int age) {
     System.out.println("インスタンスが生成されました");
-    this.name = name;
+    this.firstName = firstName;
   }
   
 }
