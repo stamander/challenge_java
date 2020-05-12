@@ -12,7 +12,18 @@ class Person{
   }
 
   public String fullName(){
-    return this.firstName + lastName;
+    return this.firstName
+    
+    + lastName;
+  }
+
+  public void printData(){
+    double bmi = this.bmi();
+
+  }
+
+  public double bmi(){
+    return this.weight/this.height/this.height
   }
   
 }
