@@ -31,5 +31,14 @@ class Person{
 
   this(firstName,lastnName,age,height,weight);
   this middleName = middleName;
+
+  public String fullName(){
+    if(this.middleName==null){
+      return this.firstName+" "+lastName;
+    }else{
+      return this.firstName + " " + middleName + lastName;
+    }
+
+  }
 }
 
