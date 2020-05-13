@@ -37,7 +37,7 @@ class Person{
       return this.firstName+" "+lastName;
     }else{
       return this.firstName + " " + middleName + lastName;
-    }
+    
 
   }
 }
