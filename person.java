@@ -23,8 +23,13 @@ class Person{
   }
 
   public double bmi(){
-    return this.weight/this.height/this.height
+    return this.weight/this.height/this.height;
   }
   
+  public String middleName;
+  person(String firstName,String middleName,String lastName);
+
+  this(firstName,lastnName,age,height,weight);
+  this middleName = middleName;
 }
 
