@@ -12,7 +12,7 @@ class Main {
     public String lastName;
    
 
-  Sys
+  System.out.println(person.getMiddleName());
 
   
 
