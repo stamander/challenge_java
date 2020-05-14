@@ -1,7 +1,7 @@
 class Main {
   public static void main(final String[] args) {
 
-    Person person1 = new Person();
+    Person person1 = new Person("Kate", "JOhn");
 
     System.out.println(person1.firstName);
 
