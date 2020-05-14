@@ -3,7 +3,8 @@ class Main {
 
     Person person1 = new Person();
 
-    Person person2 
+    Person person2 = new Person();
+    
 
 
 
