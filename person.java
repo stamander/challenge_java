@@ -1,44 +1,9 @@
 class Person{
 
 
-  public String firstName;
-  public String lastName;
-  public int age;
-
-
-  Person(String firstName, String lastName, int age) {
-    System.out.println("インスタンスが生成されました");
-    this.firstName = firstName;
+  public void hello(){
+    System.out.println("こんにちは")
   }
 
-  public String fullName(){
-    return this.firstName
-    
-    + lastName;
-  }
-
-  public void printData(){
-    double bmi = this.bmi();
-
-  }
-
-  public double bmi(){
-    return this.weight/this.height/this.height;
-  }
-  
-  public String middleName;
-  person(String firstName,String middleName,String lastName);
-
-  this(firstName,lastnName,age,height,weight);
-  this middleName = middleName;
-
-  public String getfullName(){
-    if(this.middleName==null){
-      return this.firstName+" "+lastName;
-    }else{
-      return this.firstName + " " + middleName + lastName;
-    }
-
-  }
 }
 
