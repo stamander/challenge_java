@@ -1,4 +1,4 @@
-class Main {
+class object {
   public static void main(String[] args) {
     Person person1 = new Person();
     // person1に対して、helloメソッドを呼び出してください
