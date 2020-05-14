@@ -36,7 +36,7 @@ class Person{
     if(this.middleName==null){
       return this.firstName+" "+lastName;
     }else{
-      return this.firstName + " " + middleName + lastName;
+      return this.firstName + " " + middleName + lastName
     }
 
   }
