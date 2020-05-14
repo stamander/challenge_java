@@ -8,6 +8,7 @@ class Main {
     
     Person person2 = new Person();
     // person2に対して、helloメソッドを呼び出してください
+    person2.name = "yuki";
     person2.hello();
     
   }
