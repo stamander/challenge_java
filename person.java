@@ -8,6 +8,7 @@ class Person {
 
   Person(){
     System.out.println("インスタンスが生成されました");
+    person1.name = "ats";
   }
   
 }
