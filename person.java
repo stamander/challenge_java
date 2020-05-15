@@ -15,10 +15,11 @@ class Person {
     this.name = name;
     this.firstName = firstName;
     this.lastName = lastName;
+    Person.count ++;
   }
 
   public String fullName(){
-    return firstName + " " + lastName;
+    return firstName + " " + lastName
   }
   
 }
