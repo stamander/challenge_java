@@ -14,5 +14,9 @@ class Person {
     this.firstName = firstName;
     this.lastName = lastName;
   }
+
+  public String fullName(){
+    return firstName + " " + lastName;
+  }
   
 }

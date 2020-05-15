@@ -6,9 +6,8 @@ class Main {
     System.out.println(person1.name);
     person1.hello();
     
-    Person person2 = new Person();
+    Person person2 = new Person("yuki");
     // person2に対して、helloメソッドを呼び出してください
-    person2.name = "yuki";
     person2.hello();
     
   }
