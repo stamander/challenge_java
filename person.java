@@ -1,5 +1,7 @@
 class Person {
 
+  public static int count = 0;
+
   public String name;
   public String firstName;
   public String lastName;
