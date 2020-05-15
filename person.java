@@ -21,10 +21,7 @@ class Person {
 
   Person(String name, String firstName, String middleName, String lastName){
     System.out.println("インスタンスが生成されました");
-    this.name = name;
-    this.firstName = firstName;
-    this.lastName = lastName;
-    Person.count ++;
+    this()
   }
 
   public String fullName(){
