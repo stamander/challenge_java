@@ -21,7 +21,9 @@ class Person {
 
   Person(String name, String firstName, String middleName, String lastName){
     System.out.println("インスタンスが生成されました");
-    this(firstName,middleName,lastName);
+    this(name,firstName,lastName);
+
+    this.middleName = middleName;
   }
 
   public String fullName(){
