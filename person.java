@@ -6,9 +6,9 @@ class Person {
     System.out.println("こんにちは"+this.name);
   }
 
-  Person(){
+  Person(String name){
     System.out.println("インスタンスが生成されました");
-    person1.name = "ats";
+    this.name = name;
   }
   
 }
