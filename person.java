@@ -19,7 +19,7 @@ class Person {
   }
 
   public String fullName(){
-    return firstName + " " + lastName
+    return firstName + " " + lastName;
   }
   
 }
