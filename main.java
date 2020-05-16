@@ -13,5 +13,7 @@ class Main {
     person2.hello();
     
     person2.setMiddleName("ats");
+
+    System.out.println(person2.getMiddleName());
   }
 }
