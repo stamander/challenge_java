@@ -7,7 +7,7 @@ class Bicycle{
   }
 
   public String getName{
-    
+    return this.name;
   }
 
 
