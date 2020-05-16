@@ -28,10 +28,10 @@ class Person {
 
   public String fullName(){
 
-    if(middlename == 0){
-      return firstName + " " + lastName;
+    if(this.middlename == 0){
+      return this.firstName + " " + this.lastName;
     }else{
-      return firstName + " " + lastName;
+      return this.firstName + " " + this.middleName + " " + this.lastName;
     }
   }
   
