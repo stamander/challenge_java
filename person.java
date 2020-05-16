@@ -27,7 +27,12 @@ class Person {
   }
 
   public String fullName(){
-    return firstName + " " + lastName;
+
+    if(middlename == 0){
+      return firstName + " " + lastName;
+    }else{
+      return firstName + " " + lastName;
+    }
   }
   
 }
