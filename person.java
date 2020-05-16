@@ -40,6 +40,8 @@ class Person {
     return this.middleName;
   }
 
-  public void
+  public void setMiddleName(String middleName){
+    this.middleName = middleName;
+  }
   
 }

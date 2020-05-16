@@ -12,5 +12,6 @@ class Main {
     // person2に対して、helloメソッドを呼び出してください
     person2.hello();
     
+    person2.setMiddleName("ats");
   }
 }
