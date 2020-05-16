@@ -3,6 +3,6 @@ class Main {
     Bycycle bycicle =  new  Bycicle("ビアンキ");
 
     System.out.println("【自転車の情報】");
-    System.out.println
+    System.out.println(bicycle.)
   }
 }
