@@ -33,6 +33,10 @@ class Person {
     }else{
       return this.firstName + " " + this.middleName + " " + this.lastName;
     }
+
+    public String getMiddleName(){
+      return middleName;
+    }
   }
   
 }
