@@ -5,7 +5,7 @@ class Person {
   public String name;
   public String firstName;
   public String lastName;
-  public String middleName;
+  private String middleName;
   
   public void hello(){
     System.out.println("こんにちは"+this.name);
@@ -34,9 +34,10 @@ class Person {
       return this.firstName + " " + this.middleName + " " + this.lastName;
     }
 
-    public String getMiddleName(){
-      return this.middleName;
-    }
+
+  }
+  public String getMiddleName(){
+    return this.middleName;
   }
   
 }
