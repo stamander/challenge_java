@@ -35,7 +35,7 @@ class Person {
     }
 
     public String getMiddleName(){
-      return middleName;
+      return this.middleName;
     }
   }
   
