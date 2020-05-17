@@ -1,5 +1,6 @@
 class Bicycle{
-  public String name;
+  private String name;
+  private String color;
   
   Bicycle(String name){
     this.name = name;
