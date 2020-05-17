@@ -1,13 +1,10 @@
 class Bicycle{
-  private String name;
-  
+  public String name;
   
   Bicycle(String name){
     this.name = name;
   }
   public String getName(){
     return this.name;
-    
   }
-  
 }
