@@ -13,5 +13,7 @@ class Bicycle{
     return this.color;
   }
 
-  public void print
+  public void printData(){
+    System.out.println("走る距離を入力してください");
+  }
 }
