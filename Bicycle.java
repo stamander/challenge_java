@@ -10,7 +10,7 @@ class Bicycle{
   }
 
   public String getCorlor(){
-    return this.color;
+    return this.color
   }
 
   public void printData(){
