@@ -8,4 +8,10 @@ class Bicycle{
   public String getName(){
     return this.name;
   }
+
+  public String getCorlor(){
+    return this.color;
+  }
+
+  public void print
 }
