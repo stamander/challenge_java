@@ -16,4 +16,4 @@ class Bicycle{
   public void printData(){
     System.out.println("走る距離を入力してください");
   }
-}
+}d
