@@ -13,6 +13,10 @@ class Main {
     System.out.print("年齢:");
     int age = scanner.nextInt();
 
+    System.out.println("身長:")
+
+    
+
     
 
     System.out.println("名前は" + firstName + " " + lastName + "です");
