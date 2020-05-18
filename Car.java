@@ -1,3 +1,2 @@
-public class Car extends Vecle{
-  
+class Car extends Vehicle {
 }

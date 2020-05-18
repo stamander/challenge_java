@@ -1,5 +1,4 @@
-public class Vecle {
-
+class Vehicle {
   private String name;
   private String color;
   private int distance = 0;
@@ -24,5 +23,4 @@ public class Vecle {
     System.out.println("色：" + this.color);
     System.out.println("走行距離：" + this.distance + "km");
   }
-  
 }
