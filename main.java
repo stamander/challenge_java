@@ -10,6 +10,7 @@ class Main {
     int person = scanner.nextInt();
 
     int maxAge = 0;
+    int totalAge = 0;
 
     for(int i =0; i<person;i++){
 
@@ -34,9 +35,11 @@ class Main {
     if(age>maxAge){
       maxAge = age;
     }
+    totalAge +=age;
   }
 
   System.out.println("最高年齢は"+maxAge+"です");
+  System.out.println("平均年齢は"+totalAge/person+"です");
 
 
 
