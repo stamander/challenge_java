@@ -1,47 +1,6 @@
-class Person {
-
-  public static int count = 0;
-
-  public String name;
-  public String firstName;
-  public String lastName;
-  private String middleName;
-  
-  public void hello(){
-    System.out.println("こんにちは"+this.name);
+public class Person {
+  public static void hello() {
+    // "Hello World"を、"Hello Java"に書き換えてください
+    System.out.println("Hello Java");
   }
-
-  Person(String name, String firstName, String lastName){
-    System.out.println("インスタンスが生成されました");
-    this.name = name;
-    this.firstName = firstName;
-    this.lastName = lastName;
-    Person.count ++;
-  }
-
-  Person(String name, String firstName, String middleName, String lastName){
-    System.out.println("インスタンスが生成されました");
-    this(name,firstName,lastName);
-
-    this.middleName = middleName;
-  }
-
-  public String fullName(){
-
-    if(this.middleName == null){
-      return this.firstName + " " + this.lastName;
-    }else{
-      return this.firstName + " " + this.middleName + " " + this.lastName;
-    }
-
-
-  }
-  public String getMiddleName(){
-    return this.middleName;
-  }
-
-  public void setMiddleName(String middleName){
-    this.middleName = middleName;
-  }
-  
 }
