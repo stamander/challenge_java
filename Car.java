@@ -1,3 +1,3 @@
-public class Car {
+public class Car extends Vecle{
   
 }
