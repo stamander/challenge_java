@@ -2,6 +2,9 @@
 
 public class Main {
   public static void main(String[] args) {
-    Person.hello();
+    Car car = new Car();
+    car.setName("フェラーリ");
+    car.setColor("赤");
+ 
   }
 }
