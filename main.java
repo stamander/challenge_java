@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class Main {
   public static void main(String[] args) {
     Car car = new Car();
@@ -14,6 +16,15 @@ class Main {
     car.printData();
 
     System.out.println("ガソリン量:"+car.getFuel()+"L");
+
+
+    Scanner scanner = new Scanner(System.in);
+    System.out.print("給油量を入力してください");
+
+    int fuel = scanner.nextInt();
+
+    car.charge(fuel);
+    
 
     System.out.println("=================");
     System.out.println("【自転車の情報】");
