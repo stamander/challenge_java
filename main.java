@@ -5,8 +5,7 @@ class Main {
     Car car = new Car("フェラーリ","赤");
 
 
-   
-
+    Bicycle bicycle = new Bicycle("ビアンカ","緑");
 
 
     System.out.println("【車の情報】");
@@ -22,6 +21,10 @@ class Main {
     car.charge(fuel);
     
 
+    System.out.println("=================");
+    System.out.println("【自転車の情報】");
+    bicycle.printData();
 
+   
   }
 }
