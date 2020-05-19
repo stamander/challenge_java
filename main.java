@@ -17,7 +17,7 @@ public class Main {
     int bicycleRun = scanner.nextInt();
 
     bicycle.run(bicycleRun);
-    
+
 
     System.out.println("-----------------");
     System.out.println("【車の情報】");
@@ -25,10 +25,17 @@ public class Main {
     Car car = new Car("フェラーリ","赤");
     car.printData();
     System.out.println("-----------------");
-    System.out.println("走る距離を入力してください");
+    System.out.print("走る距離を入力してください");
 
     int carRun = scanner.nextInt();
     car.run(carRun);
+
+    System.out.println("-----------------");
+    System.out.print("給油量を入力してください");
+
+    int carFuel = scanner.nextInt();
+
+    car.chage(carFuel);
 
 
   }

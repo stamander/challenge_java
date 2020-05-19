@@ -37,6 +37,26 @@ public class Car {
 
   }
 
+  public void chage(int fuel){
+
+    if(fuel<=0){
+      System.out.println("給油できません");
+      System.out.println("ガソリンの残り:"+this.fuel+"L");
+    }else if(fuel>=100){
+      System.out.println("満タンまで給油します");
+
+      this.fuel=100;
+      System.out.println("ガソリンの残り:"+this.fuel+"L");
+
+      
+
+    }else{
+      this.fuel+=fuel;
+      System.out.println("ガソリンの残り:"+this.fuel+"L");
+    }
+
+  }
+
 
   
 }
