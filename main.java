@@ -17,5 +17,9 @@ public class Main {
     int runDistance = scanner.nextInt();
 
     bicycle.run(runDistance);
+    System.out.println("-----------------");
+
+    Car car = new Car("フェラーリ","赤");
+    car.printData();
   }
 }
