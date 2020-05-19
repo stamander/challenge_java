@@ -20,7 +20,7 @@ public class Main {
 
 
     System.out.println("-----------------");
-    System.out.println("【車の情報】");
+    System.out.print("【車の情報】");
 
     Car car = new Car("フェラーリ","赤");
     car.printData();
