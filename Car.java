@@ -30,6 +30,11 @@ public class Car extends Vehicle{
     }
   }
 
+  Car(){
+    super();
+    System.out.println("カークラスのコンストラクタです");
+  }
+
 
 
 

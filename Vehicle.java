@@ -1,3 +1,5 @@
+import java.util.Vector;
+
 class Vehicle{
   // 以下のコードをVehicleクラスに移動してください
 private String name;
@@ -23,6 +25,10 @@ public void printData() {
   System.out.println("名前：" + this.name);
   System.out.println("色：" + this.color);
   System.out.println("走行距離：" + this.distance + "km");
+}
+
+Vehicle(String name,String color){
+  System.out.println("スーパークラスのコンストラクタです");
 }
 
 }
