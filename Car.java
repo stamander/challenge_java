@@ -3,6 +3,7 @@ public class Car {
   private String name;
   private String color;
   private int distance =0;
+  private int fuel =100;
 
   Car(String name ,String color){
     this.name = name;
@@ -14,6 +15,7 @@ public class Car {
     System.out.println("名前：" + this.name);
     System.out.println("色：" + this.color);
     System.out.println("距離：" + this.distance  + "km");
+    System.out.println("ガソリン量：" + this.fuel  + "L");
   }
 
   public void run(int distance){
