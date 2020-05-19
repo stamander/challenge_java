@@ -12,7 +12,9 @@ class Main {
 
     System.out.println("【車の情報】");
     car.printData();
-    
+
+    System.out.println("ガソリン量"car.getFuel()+"L");
+
     System.out.println("=================");
     System.out.println("【自転車の情報】");
     bicycle.printData();
