@@ -14,12 +14,22 @@ public class Main {
     System.out.println("-----------------");
     System.out.println("走る距離を入力してください");
 
-    int runDistance = scanner.nextInt();
+    int bicycleRun = scanner.nextInt();
 
-    bicycle.run(runDistance);
+    bicycle.run(bicycleRun);
+    
+
     System.out.println("-----------------");
+    System.out.println("【車の情報】");
 
     Car car = new Car("フェラーリ","赤");
     car.printData();
+    System.out.println("-----------------");
+    System.out.println("走る距離を入力してください");
+
+    int carRun = scanner.nextInt();
+    car.run(carRun);
+
+
   }
 }
