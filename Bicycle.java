@@ -15,7 +15,14 @@ public class Bicycle{
     
     System.out.println("名前：" + this.name);
     System.out.println("色：" + this.color);
-    System.out.println("距離：" + distance  + "km");
+    System.out.println("距離：" + this.distance  + "km");
+  }
+
+  public void run(int distance){
+    this.distance = distance;
+    System.out.println(this.distance + "km走ります");
+
+
   }
 }
 

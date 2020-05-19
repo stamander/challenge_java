@@ -7,5 +7,9 @@ public class Main {
 
 
     bicycle.printData();
+
+    System.out.println("-----------------");
+
+    bicycle.run(10);
   }
 }
