@@ -28,7 +28,7 @@ public void printData() {
 }
 
 Vehicle(String name,String color){
-  System.out.println("スーパークラスのコンストラクタです");
+  this.name = name;
 }
 
 }
