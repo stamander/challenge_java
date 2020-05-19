@@ -4,6 +4,13 @@ public class Bicycle extends Vehicle{
     super(name,color);
   }
 
+  public void run(){
+    this.distance +=distance;
+
+
+
+  }
+
 
 }
 

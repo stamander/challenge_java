@@ -4,7 +4,7 @@ class Vehicle{
   // 以下のコードをVehicleクラスに移動してください
 private String name;
 private String color;
-private int distance = 0;
+protected int distance = 0;
 
 public String getName() {
   return this.name;
@@ -30,7 +30,7 @@ public void printData() {
 Vehicle(String name,String color){
   this.name = name;
   this.color = color;
-  
+
 }
 
 }
