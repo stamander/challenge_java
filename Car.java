@@ -30,9 +30,9 @@ public class Car extends Vehicle{
     }
   }
 
-  Car(){
-    super();
-    System.out.println("カークラスのコンストラクタです");
+  Car(String name,String color){
+    super(name,color);
+
   }
 
 

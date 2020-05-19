@@ -29,6 +29,8 @@ public void printData() {
 
 Vehicle(String name,String color){
   this.name = name;
+  this.color = color;
+  
 }
 
 }
