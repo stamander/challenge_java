@@ -6,6 +6,8 @@ public class Car extends Vehicle{
     return this.fuel;
   }
 
+  public void 
+
   public void charge(int fuel){
     if(fuel<0){
       System.out.println("給油できません");
