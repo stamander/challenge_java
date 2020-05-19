@@ -22,10 +22,10 @@ public class Car extends Vehicle{
       fuel  += 100;
       System.out.println("ガソリン量"+fuel);
     }else{
-      System.out.println(fuel+"量給油します");
+      System.out.println(fuel+"L給油します");
       this.fuel+=fuel;
 
-      System.out.println("ガソリン量"+this.fuel);
+      System.out.println("ガソリン量:"+this.fuel+"L");
 
     }
   }
