@@ -30,6 +30,9 @@ public class Car {
       
     }else if(this.distance>this.fuel){
       System.out.println("ガソリンがたりません");
+      this.distance = 0;
+      System.out.println("走行距離："+this.distance+"km");
+      System.out.println("ガソリンの残り:"+fuel+"L");
     }
 
   }
