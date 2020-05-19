@@ -12,7 +12,7 @@ public class Main {
     bicycle.printData();
 
     System.out.println("-----------------");
-    System.out.println("走る距離を入力してください");
+    System.out.print("走る距離を入力してください");
 
     int bicycleRun = scanner.nextInt();
 
