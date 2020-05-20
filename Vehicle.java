@@ -26,6 +26,10 @@ public void setName(String name) {
 public void setColor(String color) {
   this.color = color;
 }
+
+public void setOwner(Person owner){
+   this.owner = owner;
+}
 public void printData() {
   System.out.println("名前：" + this.name);
   System.out.println("色：" + this.color);
