@@ -11,7 +11,7 @@ class Main {
 
     System.out.println("【車の情報】");
     car.printData();
-    System.out.print("")
+    System.out.print("走行距離を入力してください：");
 
     int carDistance = scanner.nextInt();
 
@@ -30,6 +30,9 @@ class Main {
     System.out.println("=================");
     System.out.println("【自転車の情報】");
     bicycle.printData();
+
+    
+
 
    
   }
