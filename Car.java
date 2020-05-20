@@ -14,6 +14,12 @@ public class Car extends Vehicle{
   }
 
   public void run(int distance){
+
+    if(fuel<distance){
+      Sys
+    }
+
+
  
    
   }
