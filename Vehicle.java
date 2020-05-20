@@ -27,11 +27,7 @@ public void printData() {
   System.out.println("走行距離：" + this.distance + "km");
 }
 
-Vehicle(String name,String color){
-  this.name = name;
-  this.color = color;
 
-}
 
 
 }
