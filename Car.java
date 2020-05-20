@@ -14,8 +14,9 @@ public class Car extends Vehicle{
   }
 
   public void run(int distance){
-    this.distance+=distance;
     System.out.println(this.distance+"km走ります");
+    this.distance+=distance;
+   
   }
 
   public void charge(int fuel){
