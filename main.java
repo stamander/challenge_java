@@ -10,12 +10,14 @@ class Main {
 
 
     System.out.println("【車の情報】");
-    car.printData();
+ 
     System.out.print("走行距離を入力してください：");
 
     int carDistance = scanner.nextInt();
 
     car.run(carDistance);
+
+    car.getOwner().printData();
 
 
 
