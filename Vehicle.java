@@ -28,7 +28,7 @@ public void printData() {
 }
 
 Vehicle(){
-  System.out.println("スーパークラスの呼び出しです");
+  
 }
 
 
