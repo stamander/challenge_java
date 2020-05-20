@@ -22,6 +22,7 @@ public class Car extends Vehicle{
       
       this.distance-=distance;
       this.fuel-=distance;
+      System.out.println("ガソリン量:" + this.fuel);
 
     }
 
