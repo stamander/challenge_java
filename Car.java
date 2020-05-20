@@ -37,7 +37,7 @@ public class Car extends Vehicle{
       System.out.println("ガソリン量"+fuel);
     }else if(fuel>=100){
       System.out.println("満タンまで給油します");
-      fuel  += 100;
+      fuel  = 100;
       System.out.println("ガソリン量"+fuel+"L");
     }else{
       System.out.println(fuel+"L給油します");
