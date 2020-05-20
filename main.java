@@ -2,14 +2,15 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
+
+    
     Scanner scanner = new Scanner(System.in);
     Car car = new Car("フェラーリ","赤");
-
-
     Bicycle bicycle = new Bicycle("ビアンカ","緑");
 
 
     System.out.println("【車の情報】");
+    car.printData();
  
     System.out.print("走行距離を入力してください：");
 
@@ -17,7 +18,7 @@ class Main {
 
     car.run(carDistance);
 
-    car.getOwner().printData();
+    
 
 
 
