@@ -11,6 +11,8 @@ class Main {
     System.out.println("【車の情報】");
     car.printData();
 
+    car.
+
 
 
     Scanner scanner = new Scanner(System.in);
