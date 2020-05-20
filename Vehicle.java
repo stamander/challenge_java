@@ -5,6 +5,7 @@ abstract class Vehicle{
 private String name;
 private String color;
 protected int distance = 0;
+private Person owner;
 
 public String getName() {
   return this.name;
