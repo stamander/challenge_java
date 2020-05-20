@@ -11,6 +11,7 @@ class Main {
 
     System.out.println("【車の情報】");
     car.printData();
+    System.out.print("")
 
     int carDistance = scanner.nextInt();
 
