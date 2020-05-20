@@ -10,6 +10,10 @@ private Person owner;
 public String getName() {
   return this.name;
 }
+
+public Person getOwner(){
+  return this.owner;
+}
 public String getColor() {
   return this.color;
 }
