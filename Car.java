@@ -13,6 +13,11 @@ public class Car extends Vehicle{
     System.out.println("ガソリン量："+this.fuel);
   }
 
+  public void run(int distance){
+    this.distance+=distance;
+    System.out.println(this.distance+"km走ります");
+  }
+
   public void charge(int fuel){
     if(fuel<0){
       System.out.println("給油できません");
