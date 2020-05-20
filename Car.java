@@ -14,14 +14,14 @@ public class Car extends Vehicle{
   }
 
   public void run(int distance){
-
+    System.out.println(distance + "km走ります");
     if(fuel<distance){
-      System.out.println(distance + "km走ります");
+      
       System.out.println("ガソリンが足りません");
     }else{
       
       this.distance-=distance;
-      
+      this.fuel-=distance;
 
     }
 
