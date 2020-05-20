@@ -31,6 +31,10 @@ class Main {
     System.out.println("【自転車の情報】");
     bicycle.printData();
 
+    System.out.print("走行距離を入力してください：");
+
+    int bicycleDistance = scanner.nextInt()
+
     
 
 
