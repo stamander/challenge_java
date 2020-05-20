@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
     Car car = new Car("フェラーリ","赤");
 
 
@@ -11,11 +12,13 @@ class Main {
     System.out.println("【車の情報】");
     car.printData();
 
-    car.
+    int carDistance = scanner.nextInt();
+
+    car.run(carDistance);
 
 
 
-    Scanner scanner = new Scanner(System.in);
+    
     System.out.print("給油量を入力してください:");
 
     int fuel = scanner.nextInt();
