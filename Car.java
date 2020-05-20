@@ -18,6 +18,7 @@ public class Car extends Vehicle{
     if(fuel<distance){
       
       System.out.println("ガソリンが足りません");
+      System.out.println("ガソリン量:" + this.fuel + "L");
     }else{
       
       this.distance-=distance;
