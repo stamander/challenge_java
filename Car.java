@@ -35,7 +35,7 @@ public class Car extends Vehicle{
   public void charge(int fuel){
     if(fuel<0){
       System.out.println("給油できません");
-      System.out.println("ガソリン量"+this.fuel "L");
+      System.out.println("ガソリン量"+this.fuel+"L");
     }else if(fuel>=100){
       System.out.println("満タンまで給油します");
       fuel  = 100;
