@@ -27,7 +27,9 @@ public void printData() {
   System.out.println("走行距離：" + this.distance + "km");
 }
 
-
+Vehicle(){
+  System.out.println("")
+}
 
 
 }
