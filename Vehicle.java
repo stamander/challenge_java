@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-class Vehicle{
+abstract class Vehicle{
   // 以下のコードをVehicleクラスに移動してください
 private String name;
 private String color;
@@ -34,6 +34,8 @@ Vehicle(String name,String color){
   this.color=color;
   
 }
+
+  abstract public void run(int distance);
 
 
 }
