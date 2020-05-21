@@ -18,7 +18,7 @@ class Main {
 
     car.run(carDistance);
 
-    System.out.print("あなたは今ガソリンスタンドにいます");
+    System.out.println("あなたは今ガソリンスタンドにいます");
     System.out.print("給油量を入力してください:");
 
     int fuel = scanner.nextInt();
