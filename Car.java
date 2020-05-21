@@ -11,7 +11,7 @@ public class Car extends Vehicle{
     super.printData();
 
     System.out.println("ガソリン量："+this.fuel + "L");
-    System.out.println("ガソリン量を上回ると");
+    System.out.println("ガソリン量を上回ると走ることができません");
   }
 
   public void run(int distance){
