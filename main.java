@@ -19,10 +19,6 @@ class Main {
     car.run(carDistance);
 
     
-
-
-
-    
     System.out.print("給油量を入力してください:");
 
     int fuel = scanner.nextInt();
