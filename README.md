@@ -36,20 +36,21 @@ git clone https://github.com/hoge/~
 javac Main.java
 java Main
 
+~自己紹介〜
 javac java.Introduction.java
 java Introduction
 ```
  
 # Note
  
-注意点などがあれば書く
+２つのアプリが入っています。コマンドによって動くアプリが異なります。
  
 # Author
  
-作成情報を列挙する
+
  
-* 作成者
-* 所属
+* 飯田集志
+* 
 * E-mail
  
 # License
