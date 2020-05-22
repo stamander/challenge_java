@@ -34,6 +34,8 @@ DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 git clone https://github.com/hoge/~
 javac Main.java
 java Main
+
+ja
 ```
  
 # Note
