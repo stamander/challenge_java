@@ -36,7 +36,7 @@ javac Main.java
 java Main
 
 javac java.Introduction.java
-
+java 
 ```
  
 # Note
