@@ -6,7 +6,7 @@ public class Bicycle extends Vehicle{
 
   public void run(int distance){
     System.out.println(distance+"km走ります");
-    this.distance +=distance
+    this.distance +=distance;
 
 
 
