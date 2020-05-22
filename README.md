@@ -18,18 +18,10 @@ javaのアプリを二つ作りました！
 * huga 3.5.2
 * hogehuga 1.0.2
  
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
+
 ```
  
-# Usage
- 
-
- 
+# Usage 
 ```bash
 git clone https://github.com/stamander/challenge_java
 ~自転車と車を走らせるプログラミング~
