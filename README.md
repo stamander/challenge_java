@@ -35,7 +35,7 @@ git clone https://github.com/hoge/~
 javac Main.java
 java Main
 
-javac java.Introduction
+javac java.Introduction.java
 ```
  
 # Note
