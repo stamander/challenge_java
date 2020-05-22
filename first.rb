@@ -1,0 +1,3 @@
+name = "Stamander"
+
+p name
