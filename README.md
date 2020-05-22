@@ -50,8 +50,7 @@ java Introduction
 
  
 * 飯田集志
-* 
-* E-mail
+* iida.atsushi.fh@gmail.com
  
 # License
 ライセンスを明示する
