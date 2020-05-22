@@ -13,15 +13,15 @@ javaのアプリを二つ作りました！
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+
  
-* huga 3.5.2
-* hogehuga 1.0.2
+java version "14" 2020-03-17
  
 
 ```
  
 # Usage 
+
 ```bash
 git clone https://github.com/stamander/challenge_java
 ~自転車と車を走らせるプログラミング~
