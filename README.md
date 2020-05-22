@@ -31,7 +31,7 @@ pip install huga_package
 
  
 ```bash
-git clone https://github.com/hoge/~
+git clone https://github.com/stamander/challenge_java
 ~自転車と車を走らせるプログラミング~
 javac Main.java
 java Main
