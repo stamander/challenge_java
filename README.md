@@ -50,17 +50,7 @@ java Introduction
 ２つのアプリが入っています。コマンドによって動くアプリが異なります。
  
 # Author
- 
 
- 
 * 飯田集志
 * iida.atsushi.fh@gmail.com
  
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
