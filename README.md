@@ -12,7 +12,7 @@ javaのアプリを二つ作りました！
 java言語を用いて作った自己紹介アプリ、名前、年齢、身長などを入力できます。
 さらには計算要素を用いて、bmiを出すことができます。
 
-java scanner,for,if,method,class
+java:scanner,for,if,method,class
 
 ・java 自転車と車を走らせるプログラミング
 
@@ -42,7 +42,6 @@ java Introduction
 ２つのアプリが入っています。コマンドによって動くアプリが異なります。
  
 # Author
-
 * 飯田集志
 * iida.atsushi.fh@gmail.com
  
