@@ -24,16 +24,9 @@ Vehicleというスーパークラスから継承し、Carクラスやbicycleク
 java: super、abstract、extends、if文、メソッド、private、scanner、セッター、ゲッター
  
 # Requirement
- 
-
- 
 java version "14" 2020-03-17
- 
-
-
- 
+  
 # Usage 
-
 ```bash
 git clone https://github.com/stamander/challenge_java
 ~自転車と車を走らせるプログラミング~
@@ -46,7 +39,6 @@ java Introduction
 ```
  
 # Note
- 
 ２つのアプリが入っています。コマンドによって動くアプリが異なります。
  
 # Author
