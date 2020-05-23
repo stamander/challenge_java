@@ -9,7 +9,7 @@ javaのアプリを二つ作りました！
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+自己紹介アプリ
  
 # Requirement
  
