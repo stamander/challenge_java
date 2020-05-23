@@ -5,12 +5,15 @@ javaのアプリを二つ作りました！
  
 # DEMO
  
- java 自己紹介
+ ・java 自己紹介
 コード
  <img width="1440" alt="スクリーンショット 2020-05-23 22 33 50" src="https://user-images.githubusercontent.com/59189641/82732025-98cb8380-9d45-11ea-81ea-8cb50a81cd96.png">
  <img width="1440" alt="スクリーンショット 2020-05-23 22 35 03" src="https://user-images.githubusercontent.com/59189641/82732034-a84acc80-9d45-11ea-8d2b-5ee0da452c62.png">
 実行
  <img width="509" alt="スクリーンショット 2020-05-23 22 38 36" src="https://user-images.githubusercontent.com/59189641/82732112-28713200-9d46-11ea-8b94-32966de693ec.png">
+
+ ・java 自転車と車を走らせるプログラミング
+コード
 
 # Features
 ・java 自己紹介
