@@ -50,10 +50,4 @@ public class Car extends Vehicle{
     super(name,color);
 
   }
-
-
-
-
-
-  
 }
