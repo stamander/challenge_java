@@ -27,10 +27,6 @@ public class Car extends Vehicle{
       System.out.println("ガソリン量:" + this.fuel + "L");
 
     }
-
-
- 
-   
   }
 
   public void charge(int fuel){
