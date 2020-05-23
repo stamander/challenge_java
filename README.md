@@ -9,7 +9,10 @@ javaのアプリを二つ作りました！
  
 # Features
  
+java言語を用いて作った自己紹介アプリ、名前、年齢、身長などを入力できます。
+さらには計算要素を用いて、bmiを出すことができます。
 
+javascanner,for,if,method,class
  
 # Requirement
  
