@@ -5,7 +5,8 @@ javaのアプリを二つ作りました！
  
 # DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+ java 自己紹介
+ 
  
 # Features
 ・java 自己紹介

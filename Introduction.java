@@ -40,8 +40,5 @@ public class Introduction {
   System.out.println("最高年齢は"+maxAge+"です");
   System.out.println("平均年齢は"+totalAge/person+"です");
 
-
-
-
   }
 }
