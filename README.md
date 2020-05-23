@@ -11,9 +11,9 @@ javaのアプリを二つ作りました！
  <img width="1440" alt="スクリーンショット 2020-05-23 22 35 03" src="https://user-images.githubusercontent.com/59189641/82732034-a84acc80-9d45-11ea-8d2b-5ee0da452c62.png">
 
 
- 
+
 実行
- <img width="509" alt="スクリーンショット 2020-05-23 22 38 36" src="https://user-images.githubusercontent.com/59189641/82732112-28713200-9d46-11ea-8b94-32966de693ec.png">
+ <img width="1437" alt="スクリーンショット 2020-05-23 22 57 17" src="https://user-images.githubusercontent.com/59189641/82732525-c1a14800-9d48-11ea-9802-9a2b58f9272b.png">
 
  ・java 自転車と車を走らせるプログラミング
 コード
@@ -22,7 +22,7 @@ javaのアプリを二つ作りました！
  <img width="1440" alt="スクリーンショット 2020-05-23 22 44 14" src="https://user-images.githubusercontent.com/59189641/82732237-ef858d00-9d46-11ea-986a-e7d557b82e76.png">
  <img width="1440" alt="スクリーンショット 2020-05-23 22 46 45" src="https://user-images.githubusercontent.com/59189641/82732293-49865280-9d47-11ea-9186-61bbcf6ee103.png">
 実行
- <img width="495" alt="スクリーンショット 2020-05-23 22 50 43" src="https://user-images.githubusercontent.com/59189641/82732381-d7623d80-9d47-11ea-8a92-d8a093dac4f9.png">
+ <img width="1495" alt="スクリーンショット 2020-05-23 22 50 43" src="https://user-images.githubusercontent.com/59189641/82732381-d7623d80-9d47-11ea-8a92-d8a093dac4f9.png">
 
 # Features
 ・java 自己紹介
