@@ -1,3 +1,0 @@
-name = "Stamander"
-
-p name

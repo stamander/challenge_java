@@ -1,9 +1,7 @@
-class first {
-  public static void main(String[] args) {
+class first {//クラス
+  public static void main(String[] args) {//メソッド
 
-  String name = "Stamander";
-
-  System.out.println(name);
+    System.out.println("Hello Stamander")//処理部分
 
 
   }
