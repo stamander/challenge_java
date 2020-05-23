@@ -22,7 +22,7 @@ javaのアプリを二つ作りました！
  <img width="1440" alt="スクリーンショット 2020-05-23 22 44 14" src="https://user-images.githubusercontent.com/59189641/82732237-ef858d00-9d46-11ea-986a-e7d557b82e76.png">
  <img width="1440" alt="スクリーンショット 2020-05-23 22 46 45" src="https://user-images.githubusercontent.com/59189641/82732293-49865280-9d47-11ea-9186-61bbcf6ee103.png">
 実行
- <img width="1495" alt="スクリーンショット 2020-05-23 22 50 43" src="https://user-images.githubusercontent.com/59189641/82732381-d7623d80-9d47-11ea-8a92-d8a093dac4f9.png">
+ <img width="1437" alt="スクリーンショット 2020-05-23 22 57 33" src="https://user-images.githubusercontent.com/59189641/82732537-cb2ab000-9d48-11ea-9cb8-3a1c3a2126a7.png">
 
 # Features
 ・java 自己紹介
