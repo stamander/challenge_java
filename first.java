@@ -5,7 +5,7 @@ class first {//クラス
 
    
 
-  System.out.println(17 % 3);  //文字としての処理
+  System.out.println("私の名前は"+"Stamanderです");  //文字としての処理
 
   
 
