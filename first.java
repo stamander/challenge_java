@@ -5,9 +5,9 @@ class first {//クラス
 
    
 
-    System.out.println(17);
+    System.out.println(17 + 3);  //整数としての処理
 
-    System.out.println("17");
+    System.out.println("17 + 3");//文字としての処理
 
 
   }
