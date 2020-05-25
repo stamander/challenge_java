@@ -7,7 +7,10 @@ class first {//クラス
     System.out.println("私の名前は"+name+"です"); //name出力
 
     int age = 5;
-    System.out.println("私の名前は"+name+"です"); //name出力
+    System.out.println("年齢は"+age+"歳です"); 
+
+    int age = 5;
+    System.out.println("年齢は"+age+"歳です"); 
     
 
 
