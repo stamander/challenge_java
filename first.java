@@ -9,8 +9,8 @@ class first {//クラス
     int age = 5;
     System.out.println("年齢は"+age+"歳です"); 
 
-    int age = 5;
-    System.out.println("年齢は"+age+"歳です"); 
+    double height = 5.5;
+    System.out.println("身長は"+height+"cmです"); 
     
 
 
