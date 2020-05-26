@@ -13,6 +13,10 @@ class first {//クラス
     System.out.println("身長は"+height+"cmです"); 
     
 
+    for(int i = 0; i<5; i++){
+      
+    }
+
 
 
 
