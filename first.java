@@ -8,6 +8,7 @@ class first {//クラス
     if(number>=1){
       System.out.println("numberは1よりも大きいです");
     }else{
+      FamilyDescr
 
     }
 
