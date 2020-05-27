@@ -7,9 +7,9 @@ class first {//クラス
     for(int i = 0; i<=50;i++){
 
     if(i%2==0){
-      System.out.println(i+"この数字は偶数です");
+      System.out.println(i+",この数字は偶数です");
     }else{
-      System.out.println(i+"この数字は奇数です");
+      System.out.println(i+",この数字は奇数です");
 
     }
 
