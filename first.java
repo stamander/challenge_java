@@ -6,7 +6,7 @@ class first {//クラス
     int number = 2;
 
     if(a<1){
-      Sys
+      System.out.println("numberは2よりも大きいです")；
     }
 
 
