@@ -5,8 +5,10 @@ class first {//クラス
 
     int number = 2;
 
-    if(a<1){
-      System.out.println("numberは2よりも大きいです")；
+    if(number>=1){
+      System.out.println("numberは1よりも大きいです");
+    }else{
+      
     }
 
 
