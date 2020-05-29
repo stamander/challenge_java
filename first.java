@@ -16,10 +16,8 @@ class first {//クラス
     }
 
 
-    
-    public void String printData(){
 
-    }
+    hello();
 
 
 
@@ -32,6 +30,10 @@ class first {//クラス
 
 
 
+  }
+
+  public static void hello(){
+    System.out.println("hello.Stamander");
   }
   
 }
