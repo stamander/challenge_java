@@ -1,24 +1,9 @@
 
 
-class first {//クラス
+class first {
   public static void main(String[] args) {
 
-
-
-
     hello();
-
-
-
-
-
-
-
-
-
-
-
-
   }
 
   public static void hello(){
