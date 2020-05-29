@@ -16,6 +16,12 @@ class first {//クラス
     }
 
 
+    
+    public void String printData(){
+
+    }
+
+
 
 
 
