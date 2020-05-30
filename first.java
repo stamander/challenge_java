@@ -5,15 +5,15 @@ class first {
 
     hello();
 
-    
+    ats(1);
   }
 
   public static void hello(){
     System.out.println("hello Stamander");
   }
 
-  public static ats(int a){
-    return a*2;
+  public int ats(){
+    return 1;
   }
   
 }
