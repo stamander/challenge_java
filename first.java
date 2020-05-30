@@ -1,4 +1,4 @@
-
+import jdk.internal.agent.resources.agent;
 
 class first {
   public static void main(String[] args) {
@@ -12,8 +12,8 @@ class first {
     System.out.println("hello Stamander");
   }
 
-  public int ats(){
-    return 1;
+  public static void ats(int a){
+    System.out.println(a*2);
   }
   
 }
