@@ -7,7 +7,7 @@ class first {
   }
 
   public static void hello(){
-    System.out.println("hello Stamander");
+    System.out.println("hello Stamander")
   }
   
 }
