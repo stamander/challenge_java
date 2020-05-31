@@ -1,11 +1,9 @@
-
-
 class first {
   public static void main(String[] args) {
 
     hello();
 
-    ats(1);
+    ats("atsuhsi"1);
   }
 
   public static void hello(){
