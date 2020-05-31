@@ -1,16 +1,19 @@
+import sun.security.x509.NameConstraintsExtension;
+
 class first {
   public static void main(String[] args) {
 
     hello();
 
-    ats("atsuhsi"1);
+    ats("atsuhsi",1);
   }
 
   public static void hello(){
     System.out.println("hello Stamander");
   }
 
-  public static void ats(int a){
+  public static void ats(String name,int a){
+    System.out.println(name);
     System.out.println(a*2);
   }
   
