@@ -4,7 +4,7 @@ class first {
     hello();
 
     ats("atsuhsi",1);
-    ats
+    ats("yukimi",23);
   }
 
   public static void hello(){
