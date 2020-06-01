@@ -11,10 +11,16 @@ class first {
     System.out.println("hello Stamander");
   }
 
-  public static void ats(String name,int a){
+  public static void ats(String name,int age){
     System.out.println(name);
-    System.out.println(a*2);
+
+    
+    System.out.println(age+"歳");
+
+
   }
+
+  
 
 
   
