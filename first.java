@@ -3,7 +3,7 @@ class first {
 
     hello();
 
-    ats("atsuhsi",1);
+    ats("atsuhsi",5);
     ats("yukimi",23);
   }
 
@@ -16,6 +16,10 @@ class first {
 
     
     System.out.println(age+"歳");
+
+    if(age>=20){
+      System.out.println(age+"歳");
+    }
 
 
   }
