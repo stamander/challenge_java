@@ -15,7 +15,7 @@ class first {
     System.out.println(a*2);
   }
 
-  public
+  public static
   
 }
 
