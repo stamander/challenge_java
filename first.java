@@ -4,6 +4,7 @@ class first {
     hello();
 
     ats("atsuhsi",1);
+    
   }
 
   public static void hello(){
@@ -15,7 +16,10 @@ class first {
     System.out.println(a*2);
   }
 
-  public static void snow
+  public static void snow(String names int number){
+
+
+  }
   
 }
 
