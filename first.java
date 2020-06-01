@@ -5,6 +5,8 @@ class first {
 
     ats("atsuhsi",5);
     ats("yukimi",23);
+
+    for
   }
 
   public static void hello(){
