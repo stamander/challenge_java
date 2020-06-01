@@ -1,5 +1,3 @@
-
-
 class first {
   public static void main(String[] args) {
 
@@ -16,6 +14,8 @@ class first {
     System.out.println(name);
     System.out.println(a*2);
   }
+
+  public
   
 }
 
