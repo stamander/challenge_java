@@ -6,7 +6,9 @@ class first {
     ats("atsuhsi",5);
     ats("yukimi",23);
 
-    for
+    for(int i = 0;i<5;i++){
+      
+    }
   }
 
   public static void hello(){
