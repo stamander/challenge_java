@@ -15,7 +15,7 @@ class first {
     System.out.println(a*2);
   }
 
-  public static void 
+  public static void snow
   
 }
 
