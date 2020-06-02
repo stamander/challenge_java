@@ -17,15 +17,15 @@ class first {
   }
 
   public static void ats(String name,int age){
-    System.out.println(name);
-    System.out.println(age+"歳");
+    System.out.println(name + age + "歳");
+  
 
     if(age>=20){
       System.out.println("成人です");
     }
     
 
-    
+
 
 
   }
