@@ -17,7 +17,7 @@ class first {
   }
 
   public static void ats(String name,int age){
-    System.out.println(name + age + "歳");
+    System.out.print(name +" " + age + "歳 ");
   
 
     if(age>=20){
