@@ -29,7 +29,7 @@ public class Car extends Vehicle{
     }
   }
 
-  public void charge(int fuel){
+  public void charge(int fuel)
     if(fuel<0){
       System.out.println("給油できません");
       System.out.println("ガソリン量"+this.fuel+"L");
